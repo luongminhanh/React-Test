@@ -1,0 +1,16 @@
+.create-class-container {
+    height: 80vh;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+input, textarea {
+    padding: 20px;
+    width: 500px;
+}
+.create-class {
+    padding: 5px;
+    width: 100px;
+}
